@@ -1,2 +1,6 @@
 # Summertime-Internship-Alternative
 A repo of what you can do if you didn't get an internship this summer, I was in that same position; so these are some of the things I did.
+## INTRODUCTION
+I am currently a rising senior at Brown University majoring in Computer Science student. Although I was able to secure an internship for this upcoming summer, this is my first internship. I switched into CS as a sophomore, and although I thought I had learned enough in my first two classes to be able to contribute to a company, I was not able to secure an internship. So instead of doing nothing that summer, I got a part time job and dedicated my summer to doing a lot of CS related things and learning as much as I could. After taking cs classes, I started taking interests in a lot of different things cs-related and I thought the summer would be the perfect time to explore. I have a compiled a list of all the different useful resources that can help any student that is in a similar situation that I was not so long ago. Everything I did that summer led to me getting involved in AI research, as well as landing a summer internship becuase I had plenty of side projects to talk about when I was going through the interview process. Feel free to comment or message me with any additional questions/resources you may have.
+
+## Coding Resources
